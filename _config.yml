@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 仙人掌与九头蛇
-header-img: img/post.pgp
+header-img: img/post.jpg
 email: 277357787@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   关于生物技术、DIYBIO实验、Bioinformatics、programming、startup、science、Internet
